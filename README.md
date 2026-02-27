@@ -1,2 +1,3 @@
-# Vakifbank-Veri-Analizi-Staj-Portfolyosu
+# e-ticaret-performans-analizi
+
 
